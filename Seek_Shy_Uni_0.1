@@ -6,8 +6,8 @@
 // @author        Ameba Blog User
 // @match        https://*/*
 // @grant        none
-// @updateURL        https://github.com/personwritep/Seek_Shy/raw/main/Seek_Shy_Uni.user.js
-// @downloadURL        https://github.com/personwritep/Seek_Shy/raw/main/Seek_Shy_Uni.user.js
+// @updateURL        https://github.com/personwritep/Seek_Shy_Uni/raw/main/Seek_Shy_Uni.user.js
+// @downloadURL        https://github.com/personwritep/Seek_Shy_Uni/raw/main/Seek_Shy_Uni.user.js
 // ==/UserScript==
 
 
